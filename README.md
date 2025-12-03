@@ -1,12 +1,20 @@
-# Simulador-de-Tienda-con-Sistema-de-Inventario-Python-
-“Desarrollé un sistema de tienda en Python que administra inventario, permite registrar productos, aumentar stock y simular compras. Toda la información se guarda en un archivo JSON para que el sistema mantenga los datos aunque se cierre.”
-# Simulador de Tienda con Inventario (Python)
+# 🏪 Sistema de Tienda con Inventario – Proyecto Final en Python
 
-Proyecto final en Python que simula una tienda con sistema de inventario:
-- Registra productos
-- Aumenta stock
-- Permite compras
-- Guarda datos en JSON
+Este es un proyecto final en Python que simula una tienda sencilla con sistema de inventario.  
+Los productos se almacenan en un archivo JSON y el usuario puede agregar productos, ver inventario, actualizar stock y realizar compras.
 
-Ejecutar con:
-python main.py
+---
+
+## 🚀 Funcionalidades
+
+✔ Agregar productos nuevos  
+✔ Mostrar inventario completo  
+✔ Actualizar cantidad de un producto  
+✔ Registrar compras (disminuye stock)  
+✔ Guardar automáticamente los datos en `inventario.json`  
+✔ Sistema persistente: la información queda guardada siempre
+
+---
+
+## 📦 Archivos del Proyecto
+
